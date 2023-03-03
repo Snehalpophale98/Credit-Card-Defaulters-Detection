@@ -35,6 +35,7 @@ The models are trained on the training set and evaluated on the testing set usin
 ### Model Evaluation :
 This step involves evaluating the performance of the model using various metrics such as accuracy, precision, recall, and F1 score.
 It also involves analyzing the confusion matrix and ROC curve. So my XGBoost Model gave me highest accuracy.
+As expected 
 
 
 
